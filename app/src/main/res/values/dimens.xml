@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="side_padding">16dp</dimen>
+    <dimen name="vertical_padding">3dp</dimen>
+    <dimen name="left_padding_text">72dp</dimen>
+    <dimen name="list_item_height">56dp</dimen>
+    <dimen name="between_name_and_year">10dp</dimen>
+</resources>

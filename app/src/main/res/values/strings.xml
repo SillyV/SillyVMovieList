@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">VideOn</string>
+    <string name="action_search">Search Movie</string>
+    <string name="edit_title">Movie Title</string>
+    <string name="edit_body">Plot Description</string>
+    <string name="edit_image_url">Image Url</string>
+    <string name="displayed_image">Displayed Image</string>
+    <string name="leftBracket">(</string>
+    <string name="rightBracket">)</string>
+    <string name="movie_poster_content_description">Movie Poster</string>
+    <string name="no_results">0 results.</string>
+    <string name="results_found">" results for \""</string>
+    <string name="save_btn">Save</string>
+    <string name="remove_all_options_menu">Remove All</string>
+    <string name="exit_options_menu">Exit</string>
+    <string name="release_year">Release Year</string>
+    <string name="query_hint">Movie</string>
+    <string-array name="long_click_options">
+        <item>Edit</item>
+        <item>Remove</item>
+    </string-array>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">וידאון</string>
+    <string name="action_search">מצא סרט</string>
+    <string name="edit_title">שם הסרט</string>
+    <string name="edit_body">תאור</string>
+    <string name="edit_image_url">קישור לתמונה</string>
+    <string name="displayed_image">תמונה מוצגת</string>
+    <string name="leftBracket">(</string>
+    <string name="rightBracket">)</string>
+    <string name="movie_poster_content_description">פוסטר</string>
+    <string name="no_results">0 תוצאות.</string>
+    <string name="results_found">" תוצאות עבור \""</string>
+    <string name="save_btn">שמור</string>
+    <string name="remove_all_options_menu">הסר הכל</string>
+    <string name="exit_options_menu">יציאה</string>
+    <string name="release_year">שנת הוצאה</string>
+    <string name="query_hint">שם הסרט</string>
+    <string-array name="long_click_options">
+        <item>ערוך</item>
+        <item>הסר</item>
+    </string-array>
+</resources>
